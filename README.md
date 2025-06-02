@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://go.avck.ws/e8baed51b65b13a0?erid=LdtCKAcNs&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Вход_в_личный_кабинет-blue?style=for-the-badge" alt="Вход">
+  </a>
+  <a href="https://go.avck.ws/e8baed51b65b13a0?erid=LdtCKAcNs&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Регистрация_кабинета-green?style=for-the-badge" alt="Регистрация">
+  </a>
+  <a href="https://go.avck.ws/e8baed51b65b13a0?erid=LdtCKAcNs&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Восстановить_пароль-red?style=for-the-badge" alt="Восстановить пароль">
+  </a>
+</p>
+
+
 <h1>Туту ру - как войти в личный кабинет на официальном сайте</h1>
 
 <h2>Что представляет собой <a href="https://go.avck.ws/e8baed51b65b13a0?erid=LdtCKAcNs&m=1" target="_blank">личный кабинет tutu.ru</a> и почему он важен</h2>
